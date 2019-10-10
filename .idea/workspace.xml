@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c287c2-8948-490b-bc18-fd959968be83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DjangoToDoAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dave.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/get-pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/backend/todos/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S1GLTe7yohKI0OKc1DCzDJDV67" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c287c2-8948-490b-bc18-fd959968be83" name="Default Changelist" comment="" />
+      <created>1570723632594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570723632594</updated>
+      <workItem from="1570723634015" duration="7861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
