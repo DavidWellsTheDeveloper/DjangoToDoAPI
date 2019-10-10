@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c287c2-8948-490b-bc18-fd959968be83" name="Default Changelist" comment="Add front end that communicates with back end.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/frontend/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="46c287c2-8948-490b-bc18-fd959968be83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/todo/backend/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/todo/backend/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/backend/todo_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/backend/todo_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570723632594</updated>
-      <workItem from="1570723634015" duration="14014000" />
+      <workItem from="1570723634015" duration="14460000" />
     </task>
     <task id="LOCAL-00001" summary="Initial viewing API for ToDo lists.">
       <created>1570732237492</created>
@@ -78,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570733819749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add front end that communicates with back end.">
+      <created>1570738667549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570738667549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
