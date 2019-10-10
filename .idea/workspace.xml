@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c287c2-8948-490b-bc18-fd959968be83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoToDoAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dave.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/get-pip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todo_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/backend/todos/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/backend/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/todo/backend/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todo/backend/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570723632594</updated>
-      <workItem from="1570723634015" duration="7861000" />
+      <workItem from="1570723634015" duration="9475000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial viewing API for ToDo lists.">
+      <created>1570732237492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570732237492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial viewing API for ToDo lists." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial viewing API for ToDo lists." />
   </component>
 </project>
